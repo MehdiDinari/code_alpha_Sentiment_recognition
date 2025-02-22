@@ -52,7 +52,7 @@ The emotions recognized by the application (simulated) are:
 - Save and analyze past recordings.
 
 ## Author
-Developed by **[Your Name]** as part of an **internship with Code Alpha**.
+Developed by **[Mehdi Dinari]** as part of an **internship with Code Alpha**.
 
 ## License
 This project is open-source and available for educational and research purposes.
